@@ -73,6 +73,11 @@ if(velocidad_de_viento_2 < 0){
   print("Enorme")
 }
 ```
+#15. A partir de la exposición realizada en clase, realizar un resumen del paquete expuesto por su grupo en su repositorio en github en formato markdown
+```{r}
+#El paquete Rgee es un paquete vinculante para llamar a la API de Google Earth Engine desde R, presenta varias funciones para simplificar la conexión con el ecosistema espacial R, depende de la librería "sf", tiene dependencias estrictas y de credenciales. Su propósito es lograr avances sustantivos en los desafíos globales. Algunos de sus componentes son la potencia informática, que cuenta con los datos geoespaciales, infraestructura informática de Google, y además, lo más importante, los conjuntos de datos: que son las imágenes de detección remota y el catálogo de Earth engine.
+```
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
